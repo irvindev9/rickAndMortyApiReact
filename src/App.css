@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.listedCharacter{
+  list-style: none;
+  text-align: start;
+}
+
+.listedCharacter a {
+  color: #fff;
+  font-style: none;
+  text-decoration: none;
+  cursor: pointer;
+}
